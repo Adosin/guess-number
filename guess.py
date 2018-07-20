@@ -16,3 +16,4 @@ while True:
 		print('數字大於答案')
 	elif num < r: 
 		print('數字小於答案')
+	
